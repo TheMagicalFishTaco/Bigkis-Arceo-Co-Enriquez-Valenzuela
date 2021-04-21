@@ -3,7 +3,7 @@
 A mobile application that serves as a digitized version of Kapitan Kimo, a
 children's storybook made to discuss the topic of cancer and chemotherapy.
 
-Acknoledgements:
+Acknowledgements:
 We would like to thank Jared John T. Javillo of Digitalata for developing the
 framework of this application and allowing BIGKIS Kythe Group 2 to use it for
 this project.
